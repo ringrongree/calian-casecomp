@@ -1,0 +1,10 @@
+﻿id,name,category,unit_price_cad
+D001,Soft Drink,Non-alcoholic,3.49
+D002,Bottled Water,Non-alcoholic,2.99
+D003,Coffee,Non-alcoholic,3.29
+D004,Draft Beer Pint,Alcoholic,8.49
+D005,House Wine 6oz,Alcoholic,9.99
+D006,Margarita,Cocktail,12.49
+D007,Old Fashioned,Cocktail,13.49
+D008,Iced Tea,Non-alcoholic,3.49
+D009,Energy Drink,Non-alcoholic,4.99

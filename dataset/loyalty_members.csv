@@ -1,0 +1,309 @@
+loyalty_id,email,tier,points_earned,gender,age,birthday,occupation,name
+L000002,noah.wilson1@yahoo.com,Frequent,6415,Male,28,1997-03-18,Electrician,Noah Wilson
+L000005,layla.gonzalez4@icloud.com,Frequent,5245,Female,33,1992-02-18,Software Engineer,Layla Gonzalez
+L000009,mila.nowak8@yahoo.com,Frequent,7047,Male,25,2000-08-13,Graphic Designer,Mila Nowak
+L000010,alexander.lau9@hotmail.com,Very Frequent,8769,Male,31,1994-07-16,Project Manager,Alexander Lau
+L000011,aria.nowak10@icloud.com,Frequent,5417,Female,27,1998-08-26,Barista,Aria Nowak
+L000015,benjamin.wilson14@hotmail.com,Very Frequent,14092,Male,40,1985-02-04,Software Engineer,Benjamin Wilson
+L000016,aria.ivanov15@yahoo.com,Frequent,3173,Male,23,2002-10-28,Barista,Aria Ivanov
+L000017,samuel.macdonald16@yahoo.com,Frequent,7133,Male,41,1984-04-15,Nurse,Samuel MacDonald
+L000018,james.tremblay17@outlook.com,Frequent,7062,Male,33,1992-03-22,Software Engineer,James Tremblay
+L000022,john.patel21@yahoo.com,Frequent,7512,Male,18,2007-07-06,Marketing Specialist,John Patel
+L000026,benjamin.park25@icloud.com,Very Frequent,8258,Male,37,1988-08-01,Software Engineer,Benjamin Park
+L000027,abigail.nowak26@outlook.com,Frequent,6161,Female,34,1991-07-09,Graphic Designer,Abigail Nowak
+L000028,jackson.roy27@yahoo.com,Very Frequent,13395,Male,42,1983-04-06,Data Analyst,Jackson Roy
+L000029,daniel.lin28@outlook.com,Frequent,7189,Male,25,2000-03-04,Accountant,Daniel Lin
+L000033,layla.tremblay32@outlook.com,Very Frequent,8230,Female,19,2006-02-19,Data Analyst,Layla Tremblay
+L000034,camila.patel33@yahoo.com,Frequent,7051,Female,58,1967-06-13,HR Coordinator,Camila Patel
+L000035,nora.patel34@outlook.com,Very Frequent,8977,Female,31,1994-07-03,Nurse,Nora Patel
+L000036,abigail.nguyen35@yahoo.com,Frequent,5984,Female,30,1995-02-05,Research Assistant,Abigail Nguyen
+L000037,matthew.huang36@outlook.com,Frequent,4886,Female,32,1993-09-30,Research Assistant,Matthew Huang
+L000038,carter.garcia37@hotmail.com,Frequent,2975,Male,25,2000-03-30,Software Engineer,Carter Garcia
+L000039,nora.huang38@yahoo.com,Frequent,3020,Female,35,1990-03-02,Sales Associate,Nora Huang
+L000041,scarlett.su40@outlook.com,Frequent,4218,Male,27,1998-02-04,Data Analyst,Scarlett Su
+L000044,riley.su43@yahoo.com,Very Frequent,11378,Male,30,1995-01-18,HR Coordinator,Riley Su
+L000047,samuel.johnson46@hotmail.com,Frequent,5920,Female,47,1978-08-08,Research Assistant,Samuel Johnson
+L000048,james.zhang47@yahoo.com,Very Frequent,11268,Male,36,1989-05-23,Electrician,James Zhang
+L000050,riley.su49@hotmail.com,Frequent,7592,Female,40,1985-04-17,Electrician,Riley Su
+L000051,lily.liu50@yahoo.com,Very Frequent,9073,Male,31,1994-11-03,Truck Driver,Lily Liu
+L000052,jacob.thompson51@icloud.com,Frequent,5199,Male,25,2000-12-25,Marketing Specialist,Jacob Thompson
+L000057,mila.martinez56@hotmail.com,Very Frequent,12724,Male,26,1999-10-21,Software Engineer,Mila Martinez
+L000058,nora.macdonald57@icloud.com,Very Frequent,11562,Female,24,2001-09-23,Customer Service Rep,Nora MacDonald
+L000059,lucas.ivanov58@outlook.com,Very Frequent,10672,Male,26,1999-08-17,Truck Driver,Lucas Ivanov
+L000060,mila.huang59@hotmail.com,Frequent,7471,Male,40,1985-02-14,Data Analyst,Mila Huang
+L000062,harper.liu61@outlook.com,Very Frequent,9418,Female,43,1982-09-30,Marketing Specialist,Harper Liu
+L000063,michael.chan62@hotmail.com,Very Frequent,14444,Male,20,2005-08-06,Sales Associate,Michael Chan
+L000066,evelyn.nguyen65@outlook.com,Frequent,4977,Male,43,1982-11-11,Teacher,Evelyn Nguyen
+L000067,mason.chan66@gmail.com,Very Frequent,9676,Male,26,1999-09-03,Truck Driver,Mason Chan
+L000068,victoria.roy67@hotmail.com,Very Frequent,12842,Male,21,2004-03-16,Project Manager,Victoria Roy
+L000069,henry.lin68@hotmail.com,Frequent,5985,Male,42,1983-09-02,Sales Associate,Henry Lin
+L000070,owen.khan69@icloud.com,Very Frequent,10002,Male,34,1991-07-02,Electrician,Owen Khan
+L000071,mia.anderson70@icloud.com,Frequent,7313,Male,43,1982-01-30,Student,Mia Anderson
+L000072,layla.nowak71@gmail.com,Frequent,7581,Male,39,1986-06-13,Barista,Layla Nowak
+L000074,joseph.khan73@hotmail.com,Very Frequent,13436,Male,30,1995-08-30,Project Manager,Joseph Khan
+L000075,benjamin.nguyen74@icloud.com,Very Frequent,10019,Male,53,1972-07-04,Sales Associate,Benjamin Nguyen
+L000076,michael.kowalski75@outlook.com,Very Frequent,8929,Male,32,1993-04-22,Chef,Michael Kowalski
+L000077,lucas.johnson76@outlook.com,Very Frequent,12754,Male,53,1972-05-13,Graphic Designer,Lucas Johnson
+L000079,emily.kowalski78@gmail.com,Very Frequent,8077,Female,25,2000-02-11,Marketing Specialist,Emily Kowalski
+L000082,ava.liu81@icloud.com,Frequent,4477,Female,36,1989-11-19,Product Manager,Ava Liu
+L000084,madison.huang83@hotmail.com,Frequent,6373,Male,29,1996-01-19,Barista,Madison Huang
+L000085,ethan.lam84@hotmail.com,Frequent,4624,Male,25,2000-04-23,Truck Driver,Ethan Lam
+L000086,logan.taylor85@hotmail.com,Frequent,7874,Female,31,1994-06-09,Teacher,Logan Taylor
+L000088,riley.chan87@icloud.com,Very Frequent,9697,Male,18,2007-06-19,Truck Driver,Riley Chan
+L000089,john.taylor88@hotmail.com,Frequent,5102,Female,44,1981-02-01,Truck Driver,John Taylor
+L000090,chloe.park89@icloud.com,Frequent,7536,Female,43,1982-10-06,HR Coordinator,Chloe Park
+L000091,william.nguyen90@hotmail.com,Very Frequent,8363,Male,29,1996-09-08,Consultant,William Nguyen
+L000093,mia.martinez92@icloud.com,Very Frequent,14602,Female,33,1992-03-30,Accountant,Mia Martinez
+L000094,matthew.martin93@icloud.com,Frequent,4745,Female,25,2000-04-05,Student,Matthew Martin
+L000095,scarlett.singh94@yahoo.com,Frequent,6131,Male,27,1998-01-18,Sales Associate,Scarlett Singh
+L000097,emma.singh96@hotmail.com,Frequent,6625,Female,30,1995-09-06,HR Coordinator,Emma Singh
+L000098,carter.kim97@icloud.com,Frequent,6777,Male,58,1967-08-27,Chef,Carter Kim
+L000099,sebastian.gonzalez98@gmail.com,Very Frequent,10405,Female,38,1987-09-12,Student,Sebastian Gonzalez
+L000103,matthew.gonzalez102@icloud.com,Very Frequent,8127,Female,36,1989-05-18,Sales Associate,Matthew Gonzalez
+L000107,henry.roy106@hotmail.com,Frequent,7656,Female,21,2004-04-08,Nurse,Henry Roy
+L000108,layla.chow107@outlook.com,Very Frequent,13911,Male,43,1982-08-06,Electrician,Layla Chow
+L000109,samuel.roy108@gmail.com,Frequent,7736,Female,20,2005-04-11,Operations Manager,Samuel Roy
+L000111,sophia.ivanov110@hotmail.com,Frequent,7219,Female,38,1987-07-27,Truck Driver,Sophia Ivanov
+L000112,william.lam111@gmail.com,Frequent,7459,Male,24,2001-10-06,Product Manager,William Lam
+L000113,madison.lin112@outlook.com,Frequent,6074,Male,41,1984-08-20,Customer Service Rep,Madison Lin
+L000114,aria.khan113@outlook.com,Frequent,7119,Female,42,1983-11-25,Accountant,Aria Khan
+L000115,john.chen114@icloud.com,Frequent,4792,Male,18,2007-11-02,Barista,John Chen
+L000119,aiden.chen118@yahoo.com,Frequent,4571,Male,38,1987-05-06,Product Manager,Aiden Chen
+L000121,owen.anderson120@yahoo.com,Very Frequent,10255,Male,47,1978-01-16,Electrician,Owen Anderson
+L000123,ethan.johnson122@icloud.com,Frequent,6673,Male,31,1994-12-17,Accountant,Ethan Johnson
+L000124,jack.khan123@outlook.com,Frequent,5275,Male,36,1989-11-18,Consultant,Jack Khan
+L000125,carter.white124@yahoo.com,Frequent,2471,Male,43,1982-03-12,Project Manager,Carter White
+L000126,emily.nowak125@icloud.com,Frequent,7799,Female,30,1995-06-15,Software Engineer,Emily Nowak
+L000127,william.kowalski126@gmail.com,Frequent,5234,Male,35,1990-06-18,Student,William Kowalski
+L000128,elijah.gonzalez127@outlook.com,Frequent,2221,Male,24,2001-06-15,Barista,Elijah Gonzalez
+L000129,wyatt.tremblay128@hotmail.com,Frequent,6982,Female,42,1983-01-22,Truck Driver,Wyatt Tremblay
+L000130,logan.wilson129@icloud.com,Frequent,4401,Male,33,1992-09-04,Sales Associate,Logan Wilson
+L000131,evelyn.martinez130@hotmail.com,Frequent,7936,Male,18,2007-11-21,Nurse,Evelyn Martinez
+L000133,david.wilson132@outlook.com,Very Frequent,10590,Female,27,1998-10-03,Marketing Specialist,David Wilson
+L000134,chloe.wilson133@hotmail.com,Frequent,6933,Female,26,1999-04-22,Accountant,Chloe Wilson
+L000135,alexander.white134@gmail.com,Frequent,5248,Male,18,2007-09-12,Research Assistant,Alexander White
+L000136,luke.li135@yahoo.com,Frequent,5081,Female,29,1996-01-23,Accountant,Luke Li
+L000138,avery.lee137@outlook.com,Frequent,5088,Female,21,2004-04-15,Data Analyst,Avery Lee
+L000140,henry.zhang139@gmail.com,Frequent,7972,Female,34,1991-09-28,Graphic Designer,Henry Zhang
+L000141,jackson.brown140@hotmail.com,Frequent,5614,Male,40,1985-04-14,Electrician,Jackson Brown
+L000142,david.rodriguez141@yahoo.com,Frequent,3540,Female,28,1997-04-11,Chef,David Rodriguez
+L000144,henry.martin143@yahoo.com,Frequent,7066,Male,41,1984-01-27,Consultant,Henry Martin
+L000145,sofia.patel144@yahoo.com,Very Frequent,11612,Female,32,1993-06-08,HR Coordinator,Sofia Patel
+L000146,james.chow145@icloud.com,Very Frequent,14194,Male,18,2007-03-12,Project Manager,James Chow
+L000147,wyatt.brown146@outlook.com,Frequent,5810,Male,30,1995-07-22,Student,Wyatt Brown
+L000148,lily.rodriguez147@yahoo.com,Very Frequent,11759,Female,37,1988-07-17,Nurse,Lily Rodriguez
+L000149,evelyn.lee148@gmail.com,Very Frequent,10333,Female,21,2004-09-08,Research Assistant,Evelyn Lee
+L000150,michael.lee149@outlook.com,Frequent,6748,Male,18,2007-09-06,Consultant,Michael Lee
+L000153,jackson.kowalski152@gmail.com,Frequent,5520,Male,39,1986-06-26,Product Manager,Jackson Kowalski
+L000154,mason.kim153@outlook.com,Very Frequent,12242,Female,28,1997-06-26,Research Assistant,Mason Kim
+L000155,james.patel154@outlook.com,Very Frequent,10432,Male,41,1984-11-27,Student,James Patel
+L000157,madison.macdonald156@outlook.com,Frequent,2862,Male,36,1989-03-15,Data Analyst,Madison MacDonald
+L000161,jack.lam160@icloud.com,Very Frequent,9107,Male,36,1989-11-06,Accountant,Jack Lam
+L000163,abigail.johnson162@yahoo.com,Very Frequent,10856,Male,31,1994-10-04,Operations Manager,Abigail Johnson
+L000164,madison.chen163@yahoo.com,Frequent,4215,Male,21,2004-12-29,Accountant,Madison Chen
+L000165,carter.liu164@outlook.com,Frequent,4582,Male,37,1988-03-22,Consultant,Carter Liu
+L000166,sofia.park165@icloud.com,Very Frequent,9303,Female,34,1991-08-16,Operations Manager,Sofia Park
+L000169,elijah.zhang168@hotmail.com,Frequent,4101,Male,40,1985-08-13,Nurse,Elijah Zhang
+L000171,jackson.martin170@gmail.com,Very Frequent,9844,Male,43,1982-04-09,Marketing Specialist,Jackson Martin
+L000172,riley.singh171@outlook.com,Very Frequent,8422,Male,19,2006-06-18,Nurse,Riley Singh
+L000173,john.lin172@outlook.com,Very Frequent,8557,Male,18,2007-08-15,Customer Service Rep,John Lin
+L000175,aria.lau174@yahoo.com,Frequent,6974,Female,20,2005-12-16,Consultant,Aria Lau
+L000176,ella.huang175@hotmail.com,Frequent,7368,Male,29,1996-04-19,Research Assistant,Ella Huang
+L000177,avery.brown176@icloud.com,Very Frequent,8170,Male,38,1987-12-10,Student,Avery Brown
+L000183,jack.lopez182@yahoo.com,Frequent,6974,Male,42,1983-01-31,Barista,Jack Lopez
+L000184,victoria.huang183@outlook.com,Frequent,4853,Female,24,2001-06-08,Customer Service Rep,Victoria Huang
+L000187,lily.tremblay186@yahoo.com,Frequent,5339,Male,36,1989-05-13,Software Engineer,Lily Tremblay
+L000188,layla.zhang187@gmail.com,Frequent,4961,Female,30,1995-03-11,Barista,Layla Zhang
+L000190,logan.zhang189@icloud.com,Very Frequent,8918,Male,22,2003-12-01,Consultant,Logan Zhang
+L000192,grace.su191@gmail.com,Frequent,4282,Male,23,2002-11-16,Data Analyst,Grace Su
+L000193,avery.khan192@gmail.com,Frequent,6201,Female,28,1997-06-23,Teacher,Avery Khan
+L000195,layla.wilson194@icloud.com,Frequent,4937,Female,25,2000-08-14,Sales Associate,Layla Wilson
+L000196,lily.white195@yahoo.com,Very Frequent,12565,Female,30,1995-10-05,Electrician,Lily White
+L000197,elijah.nowak196@yahoo.com,Very Frequent,11979,Female,32,1993-06-13,Electrician,Elijah Nowak
+L000199,oliver.zhang198@hotmail.com,Frequent,4297,Male,20,2005-11-28,Nurse,Oliver Zhang
+L000200,layla.martinez199@hotmail.com,Very Frequent,10357,Female,31,1994-05-14,Research Assistant,Layla Martinez
+L000203,riley.brown202@yahoo.com,Frequent,7454,Male,41,1984-08-20,Graphic Designer,Riley Brown
+L000204,samuel.nguyen203@icloud.com,Frequent,2289,Female,41,1984-05-03,Truck Driver,Samuel Nguyen
+L000205,sofia.liu204@outlook.com,Frequent,3763,Male,28,1997-11-06,Operations Manager,Sofia Liu
+L000206,riley.anderson205@hotmail.com,Very Frequent,8471,Female,28,1997-08-07,Graphic Designer,Riley Anderson
+L000207,william.khan206@hotmail.com,Frequent,4639,Female,35,1990-12-26,Marketing Specialist,William Khan
+L000209,lily.lee208@gmail.com,Frequent,7534,Female,33,1992-09-03,HR Coordinator,Lily Lee
+L000210,sophia.lam209@yahoo.com,Frequent,5646,Female,31,1994-11-08,Barista,Sophia Lam
+L000212,amelia.gonzalez211@icloud.com,Very Frequent,11941,Female,30,1995-04-08,Nurse,Amelia Gonzalez
+L000213,oliver.su212@yahoo.com,Frequent,7747,Male,33,1992-11-10,Customer Service Rep,Oliver Su
+L000217,scarlett.li216@hotmail.com,Very Frequent,10002,Female,35,1990-12-19,Truck Driver,Scarlett Li
+L000218,noah.lau217@hotmail.com,Very Frequent,9649,Female,21,2004-11-07,Chef,Noah Lau
+L000220,michael.tremblay219@gmail.com,Frequent,3533,Male,25,2000-08-04,Electrician,Michael Tremblay
+L000221,hannah.rodriguez220@icloud.com,Frequent,6631,Female,18,2007-11-10,Customer Service Rep,Hannah Rodriguez
+L000222,camila.roy221@outlook.com,Very Frequent,9689,Female,34,1991-07-05,Graphic Designer,Camila Roy
+L000225,jack.garcia224@gmail.com,Frequent,5257,Male,18,2007-03-26,Student,Jack Garcia
+L000227,sebastian.garcia226@outlook.com,Very Frequent,9592,Male,40,1985-02-09,Graphic Designer,Sebastian Garcia
+L000228,madison.lin227@icloud.com,Very Frequent,8625,Female,41,1984-09-23,Graphic Designer,Madison Lin
+L000230,abigail.chen229@hotmail.com,Frequent,4022,Male,29,1996-03-07,Nurse,Abigail Chen
+L000231,mason.chan230@icloud.com,Frequent,6561,Male,38,1987-12-31,Teacher,Mason Chan
+L000232,logan.kowalski231@outlook.com,Frequent,5497,Male,27,1998-02-10,Truck Driver,Logan Kowalski
+L000234,jack.gonzalez233@gmail.com,Frequent,4365,Male,41,1984-06-24,Accountant,Jack Gonzalez
+L000237,oliver.gonzalez236@icloud.com,Very Frequent,9387,Non-binary,20,2005-06-07,Software Engineer,Oliver Gonzalez
+L000239,leo.kim238@hotmail.com,Very Frequent,10393,Male,32,1993-08-15,Graphic Designer,Leo Kim
+L000240,henry.white239@outlook.com,Frequent,5677,Male,39,1986-03-10,Nurse,Henry White
+L000243,noah.li242@yahoo.com,Very Frequent,11523,Male,47,1978-09-01,Consultant,Noah Li
+L000244,lucas.huang243@yahoo.com,Very Frequent,11718,Male,27,1998-02-23,Accountant,Lucas Huang
+L000245,scarlett.kim244@icloud.com,Frequent,4715,Male,28,1997-07-30,Customer Service Rep,Scarlett Kim
+L000247,owen.anderson246@hotmail.com,Frequent,5100,Male,23,2002-03-23,Student,Owen Anderson
+L000248,zoey.kowalski247@icloud.com,Frequent,5097,Male,24,2001-03-10,Operations Manager,Zoey Kowalski
+L000249,aiden.chan248@hotmail.com,Very Frequent,12475,Male,40,1985-05-21,Graphic Designer,Aiden Chan
+L000250,lily.zhang249@yahoo.com,Very Frequent,10141,Female,18,2007-09-19,Student,Lily Zhang
+L000253,joseph.lopez252@icloud.com,Frequent,7304,Female,43,1982-10-18,Product Manager,Joseph Lopez
+L000254,aria.huang253@yahoo.com,Frequent,6845,Female,29,1996-10-18,Truck Driver,Aria Huang
+L000255,alexander.park254@gmail.com,Very Frequent,12541,Female,18,2007-11-03,HR Coordinator,Alexander Park
+L000258,daniel.lopez257@gmail.com,Frequent,6636,Female,38,1987-04-30,Barista,Daniel Lopez
+L000259,alexander.su258@hotmail.com,Very Frequent,11326,Male,35,1990-12-25,Graphic Designer,Alexander Su
+L000260,emma.kowalski259@hotmail.com,Very Frequent,8060,Female,38,1987-03-07,HR Coordinator,Emma Kowalski
+L000261,riley.chen260@gmail.com,Frequent,5701,Male,36,1989-01-30,Truck Driver,Riley Chen
+L000263,liam.rodriguez262@gmail.com,Frequent,5447,Male,24,2001-05-31,Truck Driver,Liam Rodriguez
+L000264,abigail.thompson263@hotmail.com,Frequent,6646,Male,32,1993-04-12,Project Manager,Abigail Thompson
+L000266,owen.garcia265@yahoo.com,Casual,1724,Male,35,1990-06-01,Chef,Owen Garcia
+L000267,luna.khan266@yahoo.com,Very Frequent,10524,Female,28,1997-04-28,Product Manager,Luna Khan
+L000268,sebastian.macdonald267@yahoo.com,Frequent,7144,Female,18,2007-11-01,Customer Service Rep,Sebastian MacDonald
+L000269,zoey.su268@hotmail.com,Frequent,5455,Female,22,2003-11-03,Accountant,Zoey Su
+L000270,sophia.tremblay269@gmail.com,Very Frequent,9008,Female,18,2007-03-12,Barista,Sophia Tremblay
+L000271,scarlett.white270@outlook.com,Frequent,3798,Male,35,1990-12-08,Accountant,Scarlett White
+L000272,zoey.roy271@outlook.com,Frequent,7257,Male,25,2000-06-29,Graphic Designer,Zoey Roy
+L000273,elijah.khan272@yahoo.com,Frequent,6469,Male,20,2005-11-04,Marketing Specialist,Elijah Khan
+L000274,amelia.johnson273@outlook.com,Very Frequent,8324,Female,26,1999-12-29,Data Analyst,Amelia Johnson
+L000276,emma.singh275@gmail.com,Frequent,7291,Female,29,1996-09-01,Operations Manager,Emma Singh
+L000277,leo.martinez276@yahoo.com,Very Frequent,12321,Male,33,1992-04-01,Research Assistant,Leo Martinez
+L000278,aiden.garcia277@outlook.com,Frequent,5721,Male,31,1994-10-09,Consultant,Aiden Garcia
+L000281,william.smith280@hotmail.com,Frequent,6685,Male,18,2007-12-01,Accountant,William Smith
+L000282,luna.khan281@gmail.com,Frequent,5246,Female,47,1978-12-01,Nurse,Luna Khan
+L000283,mila.nguyen282@icloud.com,Frequent,4688,Male,33,1992-12-17,Barista,Mila Nguyen
+L000284,james.wang283@icloud.com,Frequent,7544,Male,53,1972-05-31,Project Manager,James Wang
+L000285,wyatt.garcia284@outlook.com,Frequent,7058,Male,47,1978-05-19,Graphic Designer,Wyatt Garcia
+L000286,jacob.garcia285@hotmail.com,Frequent,5881,Male,24,2001-06-04,Graphic Designer,Jacob Garcia
+L000287,matthew.khan286@icloud.com,Frequent,7831,Female,57,1968-06-13,Graphic Designer,Matthew Khan
+L000288,abigail.singh287@yahoo.com,Frequent,6729,Male,24,2001-02-17,Software Engineer,Abigail Singh
+L000289,henry.smith288@gmail.com,Frequent,6588,Male,21,2004-07-01,Teacher,Henry Smith
+L000290,victoria.roy289@gmail.com,Frequent,5704,Female,24,2001-12-22,Electrician,Victoria Roy
+L000292,harper.chen291@hotmail.com,Frequent,6467,Female,23,2002-02-05,Project Manager,Harper Chen
+L000294,hannah.lopez293@hotmail.com,Very Frequent,8841,Female,31,1994-06-20,Barista,Hannah Lopez
+L000302,sebastian.khan301@outlook.com,Frequent,5866,Male,24,2001-10-24,Student,Sebastian Khan
+L000303,olivia.liu302@outlook.com,Very Frequent,10532,Male,35,1990-02-19,Consultant,Olivia Liu
+L000304,emma.wilson303@outlook.com,Very Frequent,10286,Female,42,1983-04-29,Nurse,Emma Wilson
+L000306,matthew.nguyen305@yahoo.com,Frequent,6911,Female,18,2007-07-19,Barista,Matthew Nguyen
+L000307,sebastian.johnson306@gmail.com,Very Frequent,8797,Male,27,1998-09-03,HR Coordinator,Sebastian Johnson
+L000309,amelia.zhang308@outlook.com,Very Frequent,12444,Female,37,1988-12-14,Barista,Amelia Zhang
+L000310,victoria.liu309@hotmail.com,Very Frequent,8496,Male,49,1976-04-23,Product Manager,Victoria Liu
+L000311,charlotte.chan310@outlook.com,Frequent,4447,Male,31,1994-06-06,Sales Associate,Charlotte Chan
+L000312,amelia.nguyen311@outlook.com,Frequent,3058,Female,48,1977-03-26,Nurse,Amelia Nguyen
+L000313,grace.nguyen312@icloud.com,Very Frequent,15505,Female,26,1999-04-17,Consultant,Grace Nguyen
+L000314,charlotte.khan313@gmail.com,Very Frequent,12598,Female,37,1988-06-14,Nurse,Charlotte Khan
+L000315,henry.kowalski314@yahoo.com,Frequent,7229,Male,27,1998-04-23,Software Engineer,Henry Kowalski
+L000316,mason.white315@icloud.com,Very Frequent,11269,Male,42,1983-07-13,Software Engineer,Mason White
+L000317,chloe.nowak316@gmail.com,Very Frequent,10541,Male,21,2004-10-08,Electrician,Chloe Nowak
+L000319,charlotte.tremblay318@yahoo.com,Frequent,4630,Female,38,1987-04-18,Teacher,Charlotte Tremblay
+L000322,sophia.park321@hotmail.com,Very Frequent,12551,Male,19,2006-03-15,Electrician,Sophia Park
+L000323,luna.chow322@icloud.com,Very Frequent,9435,Female,45,1980-01-01,Research Assistant,Luna Chow
+L000324,ava.chen323@outlook.com,Frequent,5101,Female,31,1994-05-21,Product Manager,Ava Chen
+L000328,harper.ivanov327@hotmail.com,Very Frequent,9121,Female,28,1997-10-14,Teacher,Harper Ivanov
+L000330,harper.singh329@outlook.com,Frequent,7472,Female,19,2006-08-04,Software Engineer,Harper Singh
+L000332,victoria.lee331@outlook.com,Very Frequent,13096,Male,18,2007-09-27,Graphic Designer,Victoria Lee
+L000335,henry.lam334@gmail.com,Frequent,5452,Male,23,2002-12-23,Product Manager,Henry Lam
+L000336,abigail.park335@gmail.com,Frequent,3115,Male,38,1987-03-27,Sales Associate,Abigail Park
+L000337,david.anderson336@gmail.com,Frequent,7843,Male,41,1984-07-21,Nurse,David Anderson
+L000339,carter.gonzalez338@gmail.com,Frequent,6764,Male,43,1982-06-12,Teacher,Carter Gonzalez
+L000341,chloe.rodriguez340@hotmail.com,Very Frequent,8928,Male,41,1984-08-23,Product Manager,Chloe Rodriguez
+L000344,samuel.martinez343@gmail.com,Very Frequent,11457,Female,30,1995-05-16,Electrician,Samuel Martinez
+L000348,luke.lau347@gmail.com,Very Frequent,11361,Female,30,1995-04-13,HR Coordinator,Luke Lau
+L000349,victoria.anderson348@gmail.com,Frequent,5077,Male,18,2007-07-08,Marketing Specialist,Victoria Anderson
+L000350,alexander.johnson349@outlook.com,Frequent,7356,Male,24,2001-09-15,Product Manager,Alexander Johnson
+L000351,jack.nowak350@outlook.com,Very Frequent,13982,Male,36,1989-06-27,Chef,Jack Nowak
+L000352,luna.johnson351@gmail.com,Very Frequent,8559,Female,31,1994-09-04,Customer Service Rep,Luna Johnson
+L000353,layla.thompson352@hotmail.com,Very Frequent,8018,Female,36,1989-02-28,Product Manager,Layla Thompson
+L000354,luke.su353@icloud.com,Very Frequent,15268,Male,38,1987-04-23,Sales Associate,Luke Su
+L000355,mia.lam354@outlook.com,Very Frequent,8226,Female,54,1971-11-10,Consultant,Mia Lam
+L000356,emma.lau355@hotmail.com,Very Frequent,11459,Female,37,1988-11-18,Chef,Emma Lau
+L000359,ella.lin358@yahoo.com,Frequent,7869,Male,43,1982-07-28,Marketing Specialist,Ella Lin
+L000360,scarlett.liu359@hotmail.com,Frequent,3685,Male,34,1991-08-15,Electrician,Scarlett Liu
+L000362,amelia.li361@yahoo.com,Very Frequent,8056,Female,35,1990-12-21,Sales Associate,Amelia Li
+L000363,oliver.wang362@gmail.com,Very Frequent,9910,Male,26,1999-07-14,Chef,Oliver Wang
+L000364,owen.wang363@hotmail.com,Very Frequent,9236,Male,41,1984-03-01,Marketing Specialist,Owen Wang
+L000366,nora.thompson365@yahoo.com,Very Frequent,9504,Female,34,1991-02-16,Nurse,Nora Thompson
+L000369,zoey.huang368@outlook.com,Frequent,5911,Male,43,1982-07-27,HR Coordinator,Zoey Huang
+L000372,sebastian.martinez371@hotmail.com,Very Frequent,10184,Male,32,1993-05-07,Operations Manager,Sebastian Martinez
+L000373,zoey.nguyen372@outlook.com,Frequent,6819,Male,25,2000-06-22,Nurse,Zoey Nguyen
+L000374,olivia.anderson373@icloud.com,Frequent,7519,Male,32,1993-05-12,Student,Olivia Anderson
+L000375,david.white374@gmail.com,Frequent,5300,Female,24,2001-01-19,Student,David White
+L000376,madison.lopez375@gmail.com,Frequent,5650,Male,27,1998-11-08,Accountant,Madison Lopez
+L000378,john.smith377@gmail.com,Very Frequent,11564,Male,50,1975-05-13,Customer Service Rep,John Smith
+L000379,sebastian.macdonald378@hotmail.com,Very Frequent,11585,Male,28,1997-04-02,Chef,Sebastian MacDonald
+L000381,daniel.wong380@hotmail.com,Frequent,3945,Female,56,1969-03-18,Customer Service Rep,Daniel Wong
+L000384,james.wang383@gmail.com,Frequent,7375,Male,23,2002-05-01,Truck Driver,James Wang
+L000385,camila.kowalski384@hotmail.com,Frequent,3418,Female,43,1982-05-28,Nurse,Camila Kowalski
+L000389,luna.lin388@hotmail.com,Frequent,5741,Female,36,1989-06-24,Operations Manager,Luna Lin
+L000392,leo.thompson391@outlook.com,Very Frequent,11383,Male,32,1993-01-16,Software Engineer,Leo Thompson
+L000393,luna.thompson392@icloud.com,Very Frequent,14747,Female,28,1997-03-25,Customer Service Rep,Luna Thompson
+L000395,jack.nguyen394@icloud.com,Very Frequent,11287,Female,42,1983-09-17,Research Assistant,Jack Nguyen
+L000396,nora.li395@yahoo.com,Frequent,5497,Female,28,1997-10-03,Data Analyst,Nora Li
+L000398,mila.nowak397@gmail.com,Frequent,4189,Male,24,2001-01-10,Barista,Mila Nowak
+L000399,lily.su398@yahoo.com,Frequent,5390,Male,35,1990-09-01,Graphic Designer,Lily Su
+L000400,chloe.kim399@outlook.com,Very Frequent,8629,Female,42,1983-02-11,Project Manager,Chloe Kim
+L000401,michael.chen400@yahoo.com,Very Frequent,9556,Non-binary,18,2007-12-29,Student,Michael Chen
+L000404,carter.zhang403@gmail.com,Very Frequent,9743,Male,45,1980-05-18,Software Engineer,Carter Zhang
+L000407,aria.tremblay406@icloud.com,Frequent,5334,Female,33,1992-06-01,Consultant,Aria Tremblay
+L000409,grace.su408@gmail.com,Very Frequent,10202,Non-binary,35,1990-01-16,Truck Driver,Grace Su
+L000413,luna.macdonald412@yahoo.com,Frequent,7312,Female,28,1997-04-11,Nurse,Luna MacDonald
+L000415,isabella.gonzalez414@gmail.com,Very Frequent,9977,Non-binary,21,2004-02-24,HR Coordinator,Isabella Gonzalez
+L000416,luke.anderson415@hotmail.com,Frequent,4722,Prefer not to say,48,1977-03-03,Consultant,Luke Anderson
+L000417,joseph.nguyen416@icloud.com,Very Frequent,11122,Male,35,1990-02-17,Graphic Designer,Joseph Nguyen
+L000419,grace.lopez418@outlook.com,Frequent,7538,Female,44,1981-06-07,Operations Manager,Grace Lopez
+L000422,henry.singh421@gmail.com,Frequent,7385,Non-binary,18,2007-02-13,Product Manager,Henry Singh
+L000423,liam.singh422@yahoo.com,Frequent,3563,Prefer not to say,54,1971-01-01,Student,Liam Singh
+L000424,avery.su423@outlook.com,Very Frequent,9422,Non-binary,35,1990-02-24,Marketing Specialist,Avery Su
+L000425,sophia.nguyen424@yahoo.com,Frequent,6461,Female,30,1995-01-08,Software Engineer,Sophia Nguyen
+L000427,john.lau426@outlook.com,Very Frequent,9642,Prefer not to say,25,2000-12-28,Graphic Designer,John Lau
+L000429,scarlett.singh428@yahoo.com,Frequent,4655,Female,32,1993-10-06,Customer Service Rep,Scarlett Singh
+L000435,matthew.lau434@hotmail.com,Frequent,7705,Non-binary,27,1998-08-09,Student,Matthew Lau
+L000436,camila.rodriguez435@hotmail.com,Casual,1391,Non-binary,25,2000-10-11,Nurse,Camila Rodriguez
+L000437,david.chen436@icloud.com,Very Frequent,10620,Prefer not to say,25,2000-03-22,Chef,David Chen
+L000438,emma.anderson437@gmail.com,Frequent,7993,Male,22,2003-12-19,Accountant,Emma Anderson
+L000442,aria.nowak441@icloud.com,Very Frequent,9267,Prefer not to say,43,1982-02-01,Chef,Aria Nowak
+L000444,camila.chan443@hotmail.com,Frequent,5978,Female,25,2000-01-18,Consultant,Camila Chan
+L000445,madison.ivanov444@hotmail.com,Frequent,6146,Female,34,1991-04-29,Student,Madison Ivanov
+L000448,evelyn.chen447@yahoo.com,Frequent,3298,Male,25,2000-10-14,Barista,Evelyn Chen
+L000449,emily.gonzalez448@hotmail.com,Frequent,3172,Female,18,2007-07-17,Accountant,Emily Gonzalez
+L000450,charlotte.anderson449@yahoo.com,Frequent,3157,Female,39,1986-02-01,Sales Associate,Charlotte Anderson
+L000451,wyatt.tremblay450@yahoo.com,Frequent,4353,Female,25,2000-12-08,Nurse,Wyatt Tremblay
+L000454,charlotte.liu453@yahoo.com,Frequent,7897,Male,39,1986-08-27,Accountant,Charlotte Liu
+L000455,elijah.martin454@outlook.com,Frequent,7867,Male,31,1994-09-02,Chef,Elijah Martin
+L000456,jackson.kowalski455@yahoo.com,Very Frequent,11145,Male,33,1992-12-23,Graphic Designer,Jackson Kowalski
+L000458,james.chow457@yahoo.com,Frequent,6660,Male,32,1993-09-01,Electrician,James Chow
+L000461,layla.tremblay460@yahoo.com,Very Frequent,10938,Prefer not to say,23,2002-07-12,Teacher,Layla Tremblay
+L000462,amelia.martin461@outlook.com,Frequent,3845,Male,28,1997-11-20,Sales Associate,Amelia Martin
+L000464,carter.roy463@outlook.com,Very Frequent,11440,Male,19,2006-02-16,Teacher,Carter Roy
+L000465,mia.su464@yahoo.com,Very Frequent,8121,Female,18,2007-05-29,HR Coordinator,Mia Su
+L000469,abigail.smith468@outlook.com,Frequent,5711,Prefer not to say,32,1993-09-24,Electrician,Abigail Smith
+L000470,sofia.su469@yahoo.com,Frequent,7331,Non-binary,19,2006-10-28,Electrician,Sofia Su
+L000471,benjamin.su470@hotmail.com,Frequent,4915,Non-binary,31,1994-07-11,Marketing Specialist,Benjamin Su
+L000472,sofia.taylor471@icloud.com,Frequent,7390,Non-binary,42,1983-03-18,Graphic Designer,Sofia Taylor
+L000473,victoria.ivanov472@hotmail.com,Very Frequent,9605,Prefer not to say,30,1995-09-11,Product Manager,Victoria Ivanov
+L000474,abigail.chow473@gmail.com,Frequent,4733,Male,39,1986-03-16,Consultant,Abigail Chow
+L000475,samuel.liu474@icloud.com,Frequent,5741,Non-binary,18,2007-04-26,Teacher,Samuel Liu
+L000476,madison.kim475@outlook.com,Frequent,7009,Male,27,1998-04-21,Barista,Madison Kim
+L000477,sofia.lee476@icloud.com,Frequent,6155,Prefer not to say,19,2006-06-22,Student,Sofia Lee
+L000478,henry.park477@hotmail.com,Very Frequent,8157,Male,44,1981-05-09,Product Manager,Henry Park
+L000480,wyatt.martin479@yahoo.com,Very Frequent,8654,Non-binary,34,1991-02-04,Marketing Specialist,Wyatt Martin
+L000481,noah.rodriguez480@yahoo.com,Frequent,6866,Non-binary,30,1995-05-10,Barista,Noah Rodriguez
+L000482,joseph.brown481@hotmail.com,Frequent,7563,Prefer not to say,39,1986-04-30,HR Coordinator,Joseph Brown
+L000483,jacob.smith482@gmail.com,Frequent,4677,Prefer not to say,31,1994-03-06,Nurse,Jacob Smith
+L000484,sebastian.nguyen483@hotmail.com,Frequent,6621,Male,18,2007-01-03,Electrician,Sebastian Nguyen
+L000485,jacob.lin484@gmail.com,Very Frequent,8445,Male,29,1996-08-27,Consultant,Jacob Lin
+L000486,mason.khan485@yahoo.com,Very Frequent,8775,Male,38,1987-10-24,Electrician,Mason Khan
+L000487,harper.nguyen486@yahoo.com,Very Frequent,10062,Prefer not to say,35,1990-10-01,Marketing Specialist,Harper Nguyen
+L000488,isabella.park487@yahoo.com,Very Frequent,10529,Prefer not to say,18,2007-05-09,Graphic Designer,Isabella Park
+L000489,lily.lee488@yahoo.com,Casual,1744,Male,18,2007-11-02,Consultant,Lily Lee
+L000490,sofia.johnson489@outlook.com,Very Frequent,9005,Prefer not to say,32,1993-12-03,Operations Manager,Sofia Johnson
+L000494,aiden.smith493@outlook.com,Frequent,6683,Male,31,1994-12-02,Student,Aiden Smith
+L000496,wyatt.su495@icloud.com,Very Frequent,13498,Non-binary,21,2004-04-04,Research Assistant,Wyatt Su
+L000497,mia.chow496@icloud.com,Very Frequent,14762,Prefer not to say,35,1990-02-06,Accountant,Mia Chow
+L000499,benjamin.lau498@gmail.com,Very Frequent,11761,Prefer not to say,24,2001-02-03,Research Assistant,Benjamin Lau
+L000500,grace.lee499@hotmail.com,Very Frequent,10096,Female,35,1990-01-07,Marketing Specialist,Grace Lee

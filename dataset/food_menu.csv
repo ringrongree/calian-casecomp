@@ -1,0 +1,13 @@
+﻿id,name,category,unit_price_cad
+F001,Classic Burger,Mains,17.99
+F002,Chicken Wings,Appetizers,15.49
+F003,Nachos Supreme,Appetizers,16.99
+F004,Mac & Cheese,Mains,14.49
+F005,BBQ Ribs Half Rack,Mains,23.99
+F006,Caesar Salad,Salads,12.49
+F007,Veggie Pizza,Mains,18.99
+F008,Steak Sandwich,Mains,21.49
+F009,Fish Tacos,Mains,16.49
+F010,Chocolate Lava Cake,Desserts,8.99
+F011,Cheesecake,Desserts,8.49
+F012,Poutine,Appetizers,9.99
